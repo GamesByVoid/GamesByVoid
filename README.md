@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-I'm Rohit, a self-taught Game Developer from India passionate about creating immersive gameplay experiences with Unreal Engine and C++.
+I'm Rohit, a self-taught Game Developer from India, passionate about creating immersive gameplay experiences with Unreal Engine and C++.
 
-I enjoy building gameplay systems, optimizing performance, and turning ideas into polished games. My current focus is developing high-quality mobile racing games while continuously improving my programming and game architecture skills.
+I enjoy building gameplay systems, optimizing performance, and turning ideas into polished games. My current focus is developing high-quality games while continuously improving my programming and game architecture skills.
 
 ### 💻 Skills
 - Unreal Engine 5
