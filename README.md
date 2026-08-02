@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>A mobile racing game built in Unreal Engine—inspired by Forza Horizon.<br> <br>🌱 I'm currently learning<br>Unreal Engine optimization for mobile, and advanced Blueprint/C++ workflows<br><br>💬 Ask me about<br>Unreal Engine, solo game dev, shipping indie games, or building a game from scratch without a degree<br><br>⚡ Fun fact<br>Self-taught, college dropout—already shipped a PC game and building my next one 🚀
+## 👋 About Me
+
+I'm Rohit, a self-taught Game Developer from India passionate about creating immersive gameplay experiences with Unreal Engine and C++.
+
+I enjoy building gameplay systems, optimizing performance, and turning ideas into polished games. My current focus is developing high-quality mobile racing games while continuously improving my programming and game architecture skills.
+
+### 💻 Skills
+- Unreal Engine 5
+- C++
+- Gameplay Programming
+- Blueprint System
+- Game Optimization
+- Object-Oriented Programming
+- Git & GitHub
+
+### 🎯 Goal
+My goal is to become an AAA Gameplay Programmer, contributing to world-class games that combine outstanding gameplay, performance, and player experience.
+
+I believe in continuous learning, writing clean code, and building projects that demonstrate real-world development skills.
 
 
 ## 🌐 Socials:
