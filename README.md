@@ -1,35 +1,51 @@
-## 👋 About Me
+# 👋 Hi, I'm Rohit
 
-I'm Rohit, a self-taught Game Developer from India, passionate about creating immersive gameplay experiences with Unreal Engine and C++.
+🎮 **Gameplay Programmer | Unreal Engine 5 | C++**
 
-I enjoy building gameplay systems, optimizing performance, and turning ideas into polished games. My current focus is developing high-quality games while continuously improving my programming and game architecture skills.
+I'm a Gameplay Programmer from India focused on building high-quality gameplay systems using **Unreal Engine 5** and **C++**.
 
-### 💻 Skills
-- Unreal Engine 5
-- C++
-- Gameplay Programming
-- Blueprint System
-- Game Optimization
-- Object-Oriented Programming
-- Git & GitHub
+I enjoy designing scalable gameplay mechanics, writing clean and maintainable code, and solving technical challenges that improve both performance and player experience. My passion lies in creating games that feel polished, responsive, and enjoyable to play.
 
-### 🎯 Goal
-My goal is to become an AAA Gameplay Programmer, contributing to world-class games that combine outstanding gameplay, performance, and player experience.
-
-I believe in continuous learning, writing clean code, and building projects that demonstrate real-world development skills.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/voidbuilds/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/rohit-kumar-67ab01319](https://www.linkedin.com/in/rohit-kumar-67ab01319/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitgamemaker@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GamesByVoid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GamesByVoid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesByVoid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I'm expanding my knowledge in gameplay architecture, engine programming, optimization, and modern game development practices through hands-on projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GamesByVoid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+* **Languages:** C++, C#
+* **Game Engines:** Unreal Engine 5, Unity
+* **Graphics:** OpenGL
+* **Programming Concepts:**
+
+  * Object-Oriented Programming (OOP)
+  * Gameplay Programming
+  * Blueprint System
+  * Performance Optimization
+  * Data Structures & Algorithms
+* **Tools:** Git, GitHub
+
+---
+
+## 🚀 Current Focus
+
+* Developing complete gameplay systems in Unreal Engine 5
+* Building portfolio-quality game projects
+* Improving software architecture and clean coding practices
+* Learning advanced game optimization techniques
+* Preparing for an AAA Gameplay Programmer career
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become an **AAA Gameplay Programmer**, contributing to large-scale games by building robust gameplay systems, writing efficient C++ code, and delivering exceptional player experiences.
+
+I believe the best way to grow as a developer is through continuous learning, challenging projects, and writing code that is clean, scalable, and production-ready.
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 **Email:** [rohitgamemaker@gmail.com](mailto:rohitgamemaker@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rohit-kumar-67ab01319/
+* 📷 **Instagram:** https://www.instagram.com/voidbuilds/
