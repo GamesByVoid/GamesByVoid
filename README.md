@@ -12,9 +12,8 @@ Currently, I'm expanding my knowledge in gameplay architecture, engine programmi
 
 ## 💻 Tech Stack
 
-* **Languages:** C++, C#
-* **Game Engines:** Unreal Engine 5, Unity
-* **Graphics:** OpenGL
+* **Languages:** C++
+* **Game Engines:** Unreal Engine 5
 * **Programming Concepts:**
 
   * Object-Oriented Programming (OOP)
